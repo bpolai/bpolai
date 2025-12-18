@@ -38,5 +38,5 @@ Azure | Docker | Kubernetes | Bicep | Terraform | GitHub Actions | Azure DevOps 
 - Improving open-source contributions
 
 ## Reach Me
-LinkedIn: [your link]
-Email: [your email]
+LinkedIn: https://www.linkedin.com/in/bipasini-polai/
+Email: bipasini.polai@gmail.com
