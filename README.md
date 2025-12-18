@@ -10,27 +10,19 @@ Cloud & DevOps Engineer specializing in automating infrastructure, application d
 - Implement cost-efficient, secure, and observable architectures  
 
 ## Interests
-- Azure & AWS
+- Azure
 - Networking for Cloud & DevOps
 - Infrastructure automation
-- RAG & application backends
 - Monitoring & logging
 
-## Highlighted Projects
-- Multi-container app with Nginx reverse proxy
-- Bicep-based App Gateway with WAF & Key Vault integration
-- Streamlit document processing PoCs
-- SCIM group provisioning automation for Databricks
-- CI/CD pipeline deploying resource groups & storage accounts
-(Click pinned repos below for details.)
 
 ## Skills & Tech
 Azure | Docker | Kubernetes | Bicep | Terraform | GitHub Actions | Azure DevOps | GitLab | Python | PowerShell | Linux | Nginx | Key Vault | App Gateway | Monitoring
 
 ## Certifications & Achievements
 - Azure-focused DevOps role in production workloads
-- Mentored junior engineers & interns
 - Hands-on experience with IaC modules, private networking & reverse proxy setups
+- AZ-900 Azure Microsoft Fundamentals certified 
 
 ## Current Focus
 - Learning AWS & core networking
@@ -38,5 +30,5 @@ Azure | Docker | Kubernetes | Bicep | Terraform | GitHub Actions | Azure DevOps 
 - Improving open-source contributions
 
 ## Reach Me
-LinkedIn: https://www.linkedin.com/in/bipasini-polai/
-Email: bipasini.polai@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bipasini-polai/
+- Email: bipasini.polai@gmail.com
