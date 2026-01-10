@@ -1,4 +1,4 @@
-# Hi, I'm Bipasini
+# Hi, I'm Bipasini Polai
 
 Cloud & DevOps Engineer specializing in automating infrastructure, application delivery, and secure cloud deployments. I work with Azure, containerization, CI/CD, and Infrastructure-as-Code to build scalable and production-ready environments.
 
@@ -17,7 +17,7 @@ Cloud & DevOps Engineer specializing in automating infrastructure, application d
 
 
 ## Skills & Tech
-Azure | Docker | Kubernetes | Bicep | Terraform | GitHub Actions | Azure DevOps | GitLab | Python | PowerShell | Linux | Nginx | Key Vault | App Gateway | Monitoring
+Azure | Docker | Bicep  | Azure DevOps | GitLab | Python | PowerShell | Linux | Nginx | Key Vault | App Gateway | Monitoring
 
 ## Certifications & Achievements
 - Azure-focused DevOps role in production workloads
@@ -27,6 +27,7 @@ Azure | Docker | Kubernetes | Bicep | Terraform | GitHub Actions | Azure DevOps 
 ## Current Focus
 - Learning AWS & core networking
 - Advanced DevOps tooling
+- Terraform 
 - Improving open-source contributions
 
 ## Reach Me
