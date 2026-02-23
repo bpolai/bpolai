@@ -13,6 +13,7 @@ Cloud & DevOps Engineer specializing in automating infrastructure, application d
 - Azure
 - Networking for Cloud & DevOps
 - Infrastructure automation
+- Cost Optimization
 - Monitoring & logging
 
 
